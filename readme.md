@@ -1,6 +1,6 @@
-# Mudae-OP
+# AutoRoller69
 
-Mudae-OP is a Discord bot built using Node.js
+AutoRoller69 is a Discord bot built using Node.js
 
 ## Features
 - Handles Discord interactions.
@@ -16,7 +16,7 @@ Mudae-OP is a Discord bot built using Node.js
     ```
 3. Navigate to the project directory:
     ```
-    cd Mudae-OP
+    cd AutoRoller69
     ```
 4. Install dependencies:
     ```
