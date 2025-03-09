@@ -12,7 +12,7 @@ Mudae-OP is a Discord bot built using Node.js
 1. Ensure you have [Node.js](https://nodejs.org/en/) installed.
 2. Clone the repository:
     ```
-    git clone <repository-url>
+    git clone <https://github.com/sachawoody/AutoRoller69.git>
     ```
 3. Navigate to the project directory:
     ```
